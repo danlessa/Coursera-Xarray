@@ -1,0 +1,28 @@
+- Course information::
+    - ^^Images^^
+    - Instructor name
+        - Danilo Lessa Bernardineli
+    - Project description
+        - By the end of this project, you will be able to load, visualize, manipulate and perform both simple and grouped operations over geospatial multidimensional data through Xarray and Python.  
+        - We'll explore an dataset containing temperature, vegetation density and total precipitation over the Brazilian Amazon for the 1979-2019 period while the concepts are developed. 
+        - This will enable the learner to handle and extract knowledge from complex datasets such as the ones from satellite and climate re-analysis. observations.
+    - Target learner
+        - This guided project will benefit data scientists, data analysts and geophysical researchers who must deal with multidimensional / geospatial datasets. Also, this topic can be of interest for computational economists, meteorologists, environment researchers, public health analysts and among others.
+    - Project prerequisites
+        - This project requires a basic familiarity with using Python and Pandas.
+    - __Number of Tasks in Project __
+        - 7
+    - __Expected project length__
+        - 45 min for the guided part + 45 min for practice
+    - Software needed for Rhyme VM instance
+        - Ubuntu
+        - Xarray
+        - Jupyter Notebooks
+- Project Learning Objects::
+    - Load and getting familiar with NetCDF datasets
+    - Select and filter data through coordinates
+    - Visualize multidimensional and geospatial variables
+    - Apply simple operations over multidimensional data
+        - Apply grouped operations over multidimensional data
+    - Merge and concatenate datasets
+    - Interact with Pandas and export datasets
